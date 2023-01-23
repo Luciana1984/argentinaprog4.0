@@ -1,0 +1,26 @@
+img {
+    border: 2px solid #6a5acd;
+  }
+  
+  
+  body {
+      background-color: antiquewhite;
+  
+    }
+  h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:xx-large;
+    color: blueviolet;
+    font-weight:lighter;
+    background-color: aliceblue;
+    border-color: blueviolet;
+  }
+  
+  fieldset {background-color: aliceblue;
+  }
+  
+  legend {font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+      font-size: medium;
+      color: blueviolet;
+      font-weight: bold;
+  }
